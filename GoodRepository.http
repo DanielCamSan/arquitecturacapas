@@ -1,0 +1,6 @@
+@GoodRepository_HostAddress = http://localhost:5017
+
+GET {{GoodRepository_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
